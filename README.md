@@ -4,3 +4,4 @@ Awesome Resources is an open-source Github project that brings together the best
 
 Certificates:
 - Free certificates https://www.freecodecamp.org/news/free-certificates/
+- Free certificates https://www.sololearn.com/learn/
